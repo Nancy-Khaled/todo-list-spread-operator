@@ -79,4 +79,9 @@ li {
     text-align: left;
     position: relative;
     padding: 0.5rem;
+    cursor: pointer;
+}
+
+li:hover {
+    color: rgb(8, 193, 8);
 }
